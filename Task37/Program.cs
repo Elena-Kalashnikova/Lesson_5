@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Найти произведение пар чисел в одномерном массиве. Парой считаем первый и последний элемент в массиве, далее соответсвенно
+// [1 2 3 4 5] -> 5 8 3
+
